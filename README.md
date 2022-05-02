@@ -1,2 +1,3 @@
 # Degree-scale
-this is my very first C++ project as it converts any degree to any degree like kelvin to Fahrenheit or Celsius.
+this was made  after studying CPP enough to make it. 
+found it fun, and I am still proud of it as my frist project.
